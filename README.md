@@ -25,11 +25,11 @@ $(".some-span").toolMark({
 This will place a tooltip right on your span.
 
 #####Options
-mode: mark or tooltip - if tooltip option is selected, no mark will be added to wrapper
-xpos: horizontal position
-ypos: vertical position - btw, you can position tooltip too, place it under the text, for example
-mark: visible text, that will show content on hover
-width: of content
-content
+mode: mark or tooltip - if tooltip option is selected, no mark will be added to wrapper.
+xpos: horizontal position.
+ypos: vertical position - btw, you can position tooltip too, place it under the text, for example.
+mark: visible text, that will show content on hover.
+width: of content.
+content: annotation or tooltip text itself
 
 There are no unnecessary styles and no animations, you can style .tm-wrap, .tm-wrap__mark and .tm-wrap__content any way you want.
